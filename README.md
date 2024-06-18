@@ -6,7 +6,7 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 
 ## 🛠️ Technologies and Tools I use:
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"> <img src=""> <img src="">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"> <img src="">
 
 
 
@@ -17,12 +17,14 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 ## 👨🏻‍💻 About Me:
 - 💻 I'm a Fullstack Developer, currently exploring MuleSoft and Anypoint Studio.
 - ⏳ Exploring Google Cloud & Microsoft Azure.
-- 🚀 Always ready to collaborate for Dev Experiments.
+- 🚀 Always ready to collaborate for Dev Experiments. <img src="">
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge".
 - 🏆 Graduated on Multiplatform App Development Degree.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences.
 
 ## 📊 GitHub Stats:
+
+<img src="https://m3-markdown-badges.vercel.app/stars/7/2/<your-username>/<repo-name>">
 ![](https://github-readme-stats.vercel.app/api?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 

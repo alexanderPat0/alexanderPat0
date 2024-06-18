@@ -19,7 +19,7 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences.
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## ❤️ Let's get connected:

@@ -2,7 +2,8 @@
 
 I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 
-<!-- ![coding](https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b6071762f67697068792e676966) --> Insertar aquí tabla de estadísticas o algo guapo.
+![coding](https://media1.tenor.com/m/f-nICqWLnrQAAAAC/programmer-cycle.gif)
+
 
 ## 🛠️ Technologies and Tools I use:
 

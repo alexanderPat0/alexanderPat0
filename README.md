@@ -24,8 +24,10 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 
 ## 📊 GitHub Stats:
 
-<img src="https://m3-markdown-badges.vercel.app/stars/7/2/<your-username>/<repo-name>">
-![](https://github-readme-stats.vercel.app/api?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 
 ## ❤️ Let's get connected:

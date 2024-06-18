@@ -20,6 +20,10 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 - 🏆 Graduated on Multiplatform App Development Degree.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences.
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## ❤️ Let's get connected:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-rodriguez-fenix-09861a297/)]([https://www.linkedin.com/in/alejandro-rodríguez-fénix/](https://www.linkedin.com/in/alejandro-rodriguez-fenix-09861a297/))
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/alejandrofenix)](https://twitter.com/alejandrofenix) -->

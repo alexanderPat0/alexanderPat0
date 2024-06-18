@@ -12,6 +12,7 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" width="45" height="45"> 
+  </br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="45" height="45"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45"> 

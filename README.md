@@ -29,13 +29,13 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderPat0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ❤️ Let's get connected:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-rodriguez-fenix-09861a297/)](https://www.linkedin.com/in/alejandro-rodriguez-fenix-09861a297/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-rodriguez-fenix-09861a297/)](https://www.linkedin.com/in/alejandro-rodriguez-fenix-09861a297/)  [![Instagram Badge](https://img.shields.io/badge/-@alexxrodrigueezz_-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alexxrodrigueezz_)](https://www.instagram.com/alexxrodrigueezz_)
+
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/alejandrofenix)](https://twitter.com/alejandrofenix) -->
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alejandro.rodriguezfenix)](https://www.facebook.com/alejandro.rodriguezfenix) --> 
-[![Instagram Badge](https://img.shields.io/badge/-@alexxrodrigueezz_-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alexxrodrigueezz_)](https://www.instagram.com/alexxrodrigueezz_)
 
 
-## 📊 Dev pun:
+## 📎 Dev pun:
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Pun Card" />

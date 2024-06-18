@@ -6,8 +6,9 @@ I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 
 ## 🛠️ Technologies and Tools I use:
 
-<img src="" height="">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"><img src=""><img src="">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"><img src=""><img src="">
 
 
 

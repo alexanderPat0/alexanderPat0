@@ -2,7 +2,7 @@
 
 I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="200" height="100" />
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="600" height="200" />
 <!--
 ![coding](https://media1.tenor.com/m/f-nICqWLnrQAAAAC/programmer-cycle.gif) 
 <picture>

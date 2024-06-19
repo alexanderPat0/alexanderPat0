@@ -3,6 +3,11 @@
 I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 
 <!-- ![coding](https://media1.tenor.com/m/f-nICqWLnrQAAAAC/programmer-cycle.gif) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 ## 🛠️ Technologies and Tools I use:

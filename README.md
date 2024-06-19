@@ -2,12 +2,16 @@
 
 I'm Alejandro Rodríguez Fénix, a Full Stack Developer 💻
 
-<!-- ![coding](https://media1.tenor.com/m/f-nICqWLnrQAAAAC/programmer-cycle.gif) -->
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)" width="200" height="100" />
+<!--
+![coding](https://media1.tenor.com/m/f-nICqWLnrQAAAAC/programmer-cycle.gif) 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+-->
 
 
 ## 🛠️ Technologies and Tools I use:
